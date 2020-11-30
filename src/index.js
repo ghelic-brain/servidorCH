@@ -1,4 +1,4 @@
-'use strict'
+
 //dependencias
 var cors = require('cors');
 var express = require('express');
